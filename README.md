@@ -22,7 +22,6 @@ Connectivity: Wi-Fi / Bluetooth
 Cloud Platform: Blynk, ThingSpeak, or Firebase
 
 # Project Structure
-```text
 ├── firmware/           # Main .ino or .cpp source code
 
 ├── diagrams/           # Circuit diagrams and schematics
@@ -30,3 +29,4 @@ Cloud Platform: Blynk, ThingSpeak, or Firebase
 ├── docs/               # User manual and setup guide
 
 └── README.md
+    
