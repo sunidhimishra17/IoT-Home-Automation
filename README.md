@@ -29,4 +29,12 @@ Cloud Platform: Blynk, ThingSpeak, or Firebase
 ├── docs/               # User manual and setup guide
 
 └── README.md
-    
+
+# How to Setup
+​Open the .ino file in the Arduino IDE.
+
+​Install the required libraries.
+
+​Enter your SSID and Password in the configuration section.
+
+​Upload the code to your microcontroller.
